@@ -48,8 +48,8 @@ To get this app running locally, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-web-app.git
-   cd sentiment-analysis-web-app
+   git clone https://github.com/AlparslanAbdikoglu/sentimeter.git
+   cd sentiment / project
    ```
 
 2. **Install dependencies**:
