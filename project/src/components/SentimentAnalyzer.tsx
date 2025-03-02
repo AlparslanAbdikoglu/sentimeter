@@ -25,7 +25,7 @@ const SentimentAnalyzer: React.FC = () => {
   const handleLogin = (email: string, password: string) => {
     // Mock login functionality
     console.log('Logging in with:', email, password);
-    // In a real app, you would authenticate the user here
+    
     
     // Close the modal
     setIsLoginModalOpen(false);
